@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#2196F3"
+    android:padding="15dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bg_dialog_round"
+        android:orientation="vertical"
+        android:layout_marginTop="40dp"
+        android:gravity="center_horizontal">
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/flat_about"
+            android:textColor="#2196F3"
+            android:textSize="28sp"
+            android:textStyle="bold"
+            android:layout_marginBottom="16dp" />
+
+        <TextView
+            android:id="@+id/tv_description"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/aboutus_note"
+            android:justificationMode="inter_character"
+            android:textColor="#2196F3"
+            android:textSize="16sp"
+            android:padding="5dp"
+            android:layout_marginBottom="32dp" />
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/tv_website_note"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/website"
+                android:textColor="#2196F3"
+                android:textSize="16sp"
+                android:autoLink="web"
+                android:layout_marginBottom="16dp" />
+
+            <TextView
+                android:id="@+id/tv_website"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=" https://example.com"
+                android:textColor="#2196F3"
+                android:textSize="16sp"
+                android:autoLink="web"
+                android:layout_marginBottom="16dp" />
+
+        </LinearLayout>
+
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tv_github_note"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/github"
+            android:textColor="#2196F3"
+            android:textSize="16sp"
+            android:autoLink="web"
+            android:layout_marginBottom="16dp" />
+
+        <TextView
+            android:id="@+id/tv_github"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" https://github.com/example"
+            android:textColor="#2196F3"
+            android:textSize="16sp"
+            android:autoLink="web"
+            android:layout_marginBottom="16dp" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tv_email"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/email"
+            android:textColor="#2196F3"
+            android:textSize="16sp"
+            android:autoLink="email"
+            android:layout_marginBottom="16dp" />
+
+        <TextView
+            android:id="@+id/tv_email_note"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="contact@example.com"
+            android:textColor="#2196F3"
+            android:textSize="16sp"
+            android:autoLink="email"
+            android:layout_marginBottom="16dp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tv_telegram_contact"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/telegram_support"
+            android:textColor="#2196F3"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_telegram_contact_note"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="MySupport"
+            android:textColor="#2196F3"
+            android:textSize="16sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="20dp"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        
+        <ImageView
+            android:id="@+id/telegram_click"
+            android:layout_margin="15dp"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/telegram_com"/>
+
+        <ImageView
+            android:id="@+id/github_click"
+            android:layout_margin="15dp"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/github"/>
+
+        <ImageView
+            android:id="@+id/x_click"
+            android:layout_margin="15dp"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:src="@drawable/x_logo"/>
+        
+        
+    </LinearLayout>
+
+
+    </LinearLayout>
+</ScrollView>

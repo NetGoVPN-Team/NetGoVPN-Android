@@ -1,0 +1,46 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'com.netgovpn.freedom'
+    compileSdk 35
+
+    defaultConfig {
+        applicationId "com.netgovpn.freedom"
+        minSdk 21
+        targetSdk 35
+        versionCode 3
+        versionName "3"
+        setProperty("archivesBaseName", rootProject.name + "-" + versionName)
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    buildFeatures {
+        buildConfig = true
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+
+}
+
+dependencies {
+    implementation 'androidx.appcompat:appcompat:1.6.1'
+    implementation project(path: ':v2ray')
+    implementation 'com.google.android.material:material:1.10.0'
+    implementation 'com.leinardi.android:speed-dial:3.2.0'
+    implementation 'androidx.activity:activity:1.10.1'
+    implementation 'androidx.constraintlayout:constraintlayout:2.2.1'
+    implementation("com.squareup.okhttp3:okhttp:4.11.0")
+    implementation 'com.google.code.gson:gson:2.10.1'
+    implementation 'com.google.zxing:core:3.5.2'
+    implementation 'com.journeyapps:zxing-android-embedded:4.3.0'
+}

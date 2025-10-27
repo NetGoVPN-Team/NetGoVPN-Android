@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#2196F3"
+    tools:context=".UpdateActivity">
+
+    <TextView
+        android:id="@+id/tv_update_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/new_update"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        android:textColor="#ffffff"
+        android:layout_marginBottom="32dp" />
+
+    <Button
+        android:id="@+id/btn_direct_download"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="@string/diret_dl"
+        android:textSize="16sp"
+        android:textColor="#2196F3"
+        android:backgroundTint="#ffffff"
+        android:background="@drawable/rounded_button"
+        android:layout_marginBottom="16dp" />
+
+    <Button
+        android:id="@+id/btn_google_play"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="@string/google_dl"
+        android:textSize="16sp"
+        android:textColor="#2196F3"
+        android:backgroundTint="#ffffff"
+        android:background="@drawable/rounded_button" />
+
+</LinearLayout>

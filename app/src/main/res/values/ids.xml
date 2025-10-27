@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="fab_language" type="id"/>
+    <item name="fab_about" type="id"/>
+    <item name="fab_help" type="id"/>
+    <item name="fab_terms" type="id"/>
+</resources>

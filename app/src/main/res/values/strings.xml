@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">NetGoVPN</string>
+    <string name="dialog_subjects">It is free and will remain free</string>
+    <string name="dialog_note">If you’d like, you can help us with the maintenance and development costs of the App. Thank you.</string>
+    <string name="dialog_buttn">Donate</string>
+    <string name="flat_terms">Terms Of Use</string>
+    <string name="flat_donate">Donate Us</string>
+    <string name="flat_about">About Us</string>
+    <string name="server_ping">server ping : </string>
+    <string name="server_ms"> ms</string>
+    <string name="speed">speed : </string>
+    <string name="traffic">traffic : </string>
+    <string name="measuring">server ping : measuring</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="server_not_work">No server worked on your internet. Please try again</string>
+    <string name="server_issue">There was an issue with the server connection</string>
+    <string name="Error">Error</string>
+    <string name="new_update">New update</string>
+    <string name="diret_dl">Direct download</string>
+    <string name="google_dl">Install from Google Play</string>
+    <string name="connecting">Connection...</string>
+    <string name="aboutus_note">We are a small, independent team working with the goal of providing free, open, and fast services for everyone.</string>
+    <string name="github">💻 Github:</string>
+    <string name="website">🌐 Website:</string>
+    <string name="email">✉️ Email:</string>
+    <string name="telegram_channel">📢 Telegram Channel:</string>
+    <string name="telegram_support">💬 Telegram Support:</string>
+    <string name="termsofuse">Privacy policy and Terms of use</string>
+    <string name="ourwebsite">View on our website</string>
+    <string name="accept">Accept</string>
+    <string name="donate_notice">All donations will be used for server costs and VPN infrastructure improvement</string>
+
+    <string name="select_crypt">Select cryptocurrency:</string>
+    <string name="select_netwo">Select network:</string>
+    <string name="copyed">Address copied</string>
+
+    <string name="notif_per">Allow notification access</string>
+    <string name="vpn_per">Allow VPN access</string>
+
+
+
+    <string name="pravicynote">
+At NetGoVPN, our top priority is protecting your privacy and security. We understand the importance of safeguarding your personal information and ensure that your data remains secure while using our services.\n
+\n
+1. No-Logs Policy:\n
+We do not track, record, or store any logs of your internet activity. This includes browsing history, connection timestamps, or any data related to the websites you visit. We believe in protecting your anonymity and guarantee that no one, not even us, has access to your online activities.\n
+\n
+2. User Data and Analytics:\n
+We do not collect any personal information such as your name or address to provide our services. However, for statistical purposes, we use Google Firebase to count the number of active users. This data is securely processed and stored on Google’s servers and is used solely for internal analysis to improve service quality. This data does not include any identifiable or personal information.\n
+\n
+3. Third-Party Services:\n
+We do not share any of your data with third parties unless required by law or legal process. We also do not sell, rent, or disclose your personal information to third-party advertisers or data brokers.\n
+\n
+4. Data Security:\n
+We use advanced encryption methods to ensure the privacy of your connection. Any personal data shared with us is protected with strong security measures aligned with global standards. While using our VPN service, your data is securely encrypted, ensuring that no unauthorized third party can access it.\n
+\n
+5. Data Storage:\n
+Since we do not collect any personal data or activity logs, we do not store any user-related information. Your browsing activities are not kept on our servers in any form. This guarantees that your privacy remains fully protected while using our VPN service.\n
+\n
+6. Your Rights:\n
+You have the right to access, correct, or request the deletion of any personal data we might have. However, according to our privacy policy, we do not retain any data to manage or delete.\n
+\n
+Terms of Use:\n
+\n
+By using the NetGoVPN service, you agree to the following terms and conditions:\n
+\n
+1. Eligibility:\n
+You must be at least 18 years old to use our service. By using it, you confirm that you are legally capable of entering into a binding agreement.\n
+\n
+2. Use of Service:\n
+You agree to use our VPN service only for lawful purposes. Using the service for any illegal activity—including but not limited to hacking, data theft, or distributing malicious content—is strictly prohibited. We reserve the right to suspend your access if any illegal activity is detected.\n
+\n
+3. Service Availability:\n
+We strive to provide a reliable and uninterrupted service. However, we cannot guarantee that the service will always be available. Service interruptions may occur due to technical issues, maintenance, or unforeseen events.\n
+\n
+4. Account Responsibility:\n
+You are responsible for maintaining the confidentiality of your account credentials. Any activity occurring under your account is your responsibility. If you suspect unauthorized use of your account, you must contact us immediately.\n
+\n
+5. Limitation of Liability:\n
+NetGoVPN shall not be held responsible for any damage, loss, or inconvenience arising from the use or inability to use the VPN service. We do not guarantee protection against external threats such as hackers or data breaches.\n
+\n
+6. Termination of Access:\n
+We reserve the right to suspend or terminate your access to our service at any time, without prior notice, if you violate these terms.\n
+\n
+7. Changes to Terms:\n
+We may periodically update these terms. Any changes will be communicated through our website or by email. By continuing to use the service, you agree to abide by the updated terms.\n
+\n
+8. Governing Law:\n
+These terms are governed by the laws of the United States, and any disputes shall be resolved under the jurisdiction of the courts of New York.\n
+\n
+By accessing and using the NetGoVPN service, you acknowledge that you have read, understood, and agreed to this Privacy Policy and Terms of Use.\n
+</string>
+
+
+
+</resources>

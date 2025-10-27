@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.netgo" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@color/blue_background</item>
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="android:statusBarColor">#2196F3</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+</resources>
