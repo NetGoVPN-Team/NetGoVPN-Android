@@ -23,10 +23,10 @@ It leverages **clean architecture, modular design, and optimized background serv
 - Users retain full control over shared data
 
 ## 🛠️ Tech Stack
-- Kotlin / Java
-- Android Jetpack Components
+- Java
+- Android SDK (native APIs)
 - Modular clean architecture
-- Modern background service APIs
+- Modern background service handling
 
 ## 🚧 Roadmap
 - Enhanced analytics dashboard
