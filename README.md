@@ -6,44 +6,41 @@
 
 [![Download Latest Release](https://img.shields.io/github/v/release/NetGoVPN-Team/NetGoVPN-Android?style=for-the-badge)](https://github.com/NetGoVPN-Team/NetGoVPN-Android/releases/latest)
 
-
-NetGoVPN Android is a modern Android client built with a strong focus on security, performance, stability, and user-experience.  
-It provides a seamless connection layer through industry-standard protocols while maintaining strict privacy-respecting data practices.
+NetGoVPN Android is a modern Android client designed for **secure, reliable, and privacy-respecting network connectivity**.  
+It leverages **clean architecture, modular design, and optimized background services** to deliver consistent performance across diverse network environments.
 
 ## ✨ Key Features
-- Lightweight, stable, and optimized for all modern Android versions
-- Automatic background service handling with modern Android restrictions
-- Smart network routing logic
-- Detailed connection analytics (non-personal, privacy-safe)
-- Clean and intuitive UI/UX
+- Lightweight, stable, and compatible with all modern Android versions
+- Optimized background service handling under Android restrictions
+- Advanced network routing logic for performance and reliability
+- Privacy-safe analytics and telemetry for monitoring without personal data collection
+- Clean, intuitive, and responsive user interface
 
-## 🔒 Privacy Approach
+## 🔒 Privacy & Security
 - No personal identifiers collected
-- Only minimal non-sensitive telemetry for performance optimization
-- Users remain fully in control of what is shared
+- Minimal non-sensitive telemetry used only for performance optimization
+- Security-sensitive components excluded from this public repo to protect infrastructure integrity
+- Users retain full control over shared data
 
 ## 🛠️ Tech Stack
 - Kotlin / Java
 - Android Jetpack Components
-- Clean modular architecture
+- Modular clean architecture
 - Modern background service APIs
 
 ## 🚧 Roadmap
 - Enhanced analytics dashboard
 - Multi-profile connection handling
 - Connection quality monitoring
-- More protocol integrations
+- Additional protocol integrations
 
-## 🔐 Security Notice
-A small portion of security-sensitive code has been excluded from this public repository to protect infrastructure integrity and prevent misuse. All essential functionalities remain fully operational, and this does not impact the application's core behavior or performance.
-
-## 📦 Build
+## 📦 Build & Deployment
+Clone the repository and open in **Android Studio Flamingo+**.  
+Builds include all essential functionalities; security-sensitive components are integrated in distributed builds to ensure infrastructure integrity.
 
 ## 🌐 Official Links
-
 - 🌍 Website: https://example.com
 - 🐦 X (Twitter): https://x.com/YourHandle
 - 📢 Telegram Channel: https://t.me/YourChannel
 - 🧰 Telegram Support: https://t.me/YourSupport
 - ✉️ Email: support@example.com
-
