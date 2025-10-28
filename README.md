@@ -38,3 +38,11 @@ It provides a seamless connection layer through industry-standard protocols whil
 A small portion of security-sensitive code has been excluded from this public repository to protect infrastructure integrity and prevent misuse. All essential functionalities remain fully operational, and this does not impact the application's core behavior or performance.
 
 ## 📦 Build
+
+## 🌐 Official Links
+
+[Website](https://example.com) •
+[X (Twitter)](https://x.com/YourHandle) •
+[Telegram Channel](https://t.me/YourChannel) •
+[Support](https://t.me/YourSupport) •
+[Email](mailto:support@example.com)
