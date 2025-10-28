@@ -4,6 +4,9 @@
   <img src="docs/cover.png" alt="Project Cover" width="600"/>
 </p>
 
+[![Download Latest Release](https://img.shields.io/github/v/release/NetGoVPN-Team/NetGoVPN-Android?style=for-the-badge)](https://github.com/NetGoVPN-Team/NetGoVPN-Android/releases/latest)
+
+
 NetGoVPN Android is a modern Android client built with a strong focus on security, performance, stability, and user-experience.  
 It provides a seamless connection layer through industry-standard protocols while maintaining strict privacy-respecting data practices.
 
