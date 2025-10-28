@@ -41,8 +41,9 @@ A small portion of security-sensitive code has been excluded from this public re
 
 ## 🌐 Official Links
 
-[Website](https://example.com) •
-[X (Twitter)](https://x.com/YourHandle) •
-[Telegram Channel](https://t.me/YourChannel) •
-[Support](https://t.me/YourSupport) •
-[Email](mailto:support@example.com)
+- 🌍 Website: https://example.com
+- 🐦 X (Twitter): https://x.com/YourHandle
+- 📢 Telegram Channel: https://t.me/YourChannel
+- 🧰 Telegram Support: https://t.me/YourSupport
+- ✉️ Email: support@example.com
+
