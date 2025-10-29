@@ -10,7 +10,7 @@ NetGoVPN Android is a modern Android client **engineered for secure, reliable, a
 It leverages **modular architecture, optimized background services, and scalable design principles** to deliver consistent performance across diverse network conditions and dynamic environments.
 
 ## ✨ Key Features
-- Lightweight, stable, and compatible with all modern Android versions (API 23+ to 35)
+- Lightweight, stable, and compatible with all modern Android versions (API 23+)
 - Optimized background service handling under Android restrictions
 - Advanced network routing logic for performance and reliability
 - Designed for scalability and robust performance under high network variability
@@ -38,12 +38,12 @@ It leverages **modular architecture, optimized background services, and scalable
 - Future research: adaptive routing and intelligent connectivity analytics
 
 ## 📦 Build & Deployment
-Clone the repository and open in **Android Studio Flamingo+ (API 23-35)**.  
+Clone the repository and open in **Android Studio Flamingo**.  
 Builds include all essential functionalities; security-sensitive components are integrated in distributed builds to ensure infrastructure integrity.
 
 ## 🌐 Official Links
-- 🌍 Website: https://example.com
-- 🐦 X (Twitter): https://x.com/YourHandle
+- 🌍 Website: https://netgovpn.com
+- 🐦 X (Twitter): https://x.com/netgovpn
 - 📢 Telegram Channel: https://t.me/YourChannel
 - 🧰 Telegram Support: https://t.me/YourSupport
-- ✉️ Email: support@example.com
+- ✉️ Email: support@netgovpn.com
