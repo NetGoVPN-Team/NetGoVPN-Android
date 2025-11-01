@@ -44,6 +44,6 @@ Builds include all essential functionalities; security-sensitive components are 
 ## 🌐 Official Links
 - 🌍 Website: https://netgovpn.com
 - 🐦 X (Twitter): https://x.com/netgovpn
-- 📢 Telegram Channel: [https://t.me/YourChannel](https://t.me/NetGoVPN_freedom)
-- 🧰 Telegram Support: [https://t.me/YourSupport](https://t.me/NetGoVPN_Team)
+- 📢 Telegram Channel: https://t.me/NetGoVPN_freedom
+- 🧰 Telegram Support: https://t.me/NetGoVPN_Team
 - ✉️ Email: support@netgovpn.com
