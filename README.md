@@ -157,7 +157,7 @@ NetGoVPN is designed to help users access information and communications. It is 
 
 ## 📚 Contributing
 
-Contributions are welcome. Please read `CONTRIBUTING.md` for the code of conduct, contribution workflow, and security reporting process.
+Contributions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) for the code of conduct, contribution workflow, and security reporting process.
 
 ---
 
