@@ -130,7 +130,7 @@ NetGoVPN leverages established open-source networking projects as building block
 
 NetGoVPN is free for end-users. Funding will be used for: server capacity, development, security audits, and operational costs. Funding channels we will pursue:
 
-* Grants (e.g., FLOSS/fund)
+* Grants (-)
 * Donations (crypto & GitHub Sponsors)
 * Sponsorships from privacy-forward organizations
 
@@ -141,8 +141,6 @@ NetGoVPN is free for end-users. Funding will be used for: server capacity, devel
 If you want to support the project:
 
 * Crypto: [DONATE.md](DONATE.md)
-* GitHub Sponsors: (coming)
-* FLOSS/fund: (apply when ready)
 
 ---
 
