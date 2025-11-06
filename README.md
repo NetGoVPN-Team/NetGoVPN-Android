@@ -140,7 +140,7 @@ NetGoVPN is free for end-users. Funding will be used for: server capacity, devel
 
 If you want to support the project:
 
-* Crypto: (add addresses in `DONATE.md`)
+* Crypto: [DONATE.md] (DONATE.md)
 * GitHub Sponsors: (coming)
 * FLOSS/fund: (apply when ready)
 
