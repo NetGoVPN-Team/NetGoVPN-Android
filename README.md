@@ -44,7 +44,7 @@ NetGoVPN is designed with real-world censorship and deep packet inspection (DPI)
 
 * **No-logs policy:** We do not store users' activity or traffic logs on servers. Operational metadata required for infrastructure health (e.g., heartbeat or ephemeral connection counters) is minimized and retained only for short periods.
 * **Minimal telemetry:** Only non-identifying performance metrics are collected to help maintain stability and reliability.
-* **Responsible disclosure:** See `SECURITY.md` for vulnerability reporting and PGP key for confidential reports.
+* **Responsible disclosure:** See [SECURITY.md](SECURITY.md) for vulnerability reporting and PGP key for confidential reports.
 * **Code separation:** Security-sensitive server-side bits are not published in this client repo to avoid exposing operational infrastructure.
 
 ---
@@ -82,7 +82,7 @@ NetGoVPN leverages established open-source networking projects as building block
 ## 📦 Build & Deployment
 
 1. Clone this repository and open in Android Studio Flamingo or newer.
-2. Follow build instructions in `BUILD.md` (sensitive infrastructure details are intentionally excluded from the public repo).
+2. Follow build instructions in [BUILD.md](BUILD.md) (sensitive infrastructure details are intentionally excluded from the public repo).
 3. Releases are signed and published to GitHub Releases and Google Play (managed channel). See release notes for binary hashes.
 
 ---
