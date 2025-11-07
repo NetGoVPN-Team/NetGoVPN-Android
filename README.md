@@ -4,10 +4,12 @@
   <img src="docs/cover.png" alt="Project Cover" width="600"/>
 </p>
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)]()
-![Android](https://img.shields.io/badge/Android-API%2023%2B-blue)
-![Status](https://img.shields.io/badge/Status-Active-success)
-![Users](https://img.shields.io/badge/Users-100%2B-brightgreen)
+[![GitHub release](https://img.shields.io/github/v/release/USERNAME/REPO)](https://github.com/USERNAME/REPO/releases)
+[![Downloads](https://img.shields.io/github/downloads/USERNAME/REPO/total)](https://github.com/USERNAME/REPO/releases)
+[![GitHub stars](https://img.shields.io/github/stars/USERNAME/REPO?style=social)](https://github.com/USERNAME/REPO/stargazers)
+![Android API 23+](https://img.shields.io/badge/Android-API%2023%2B-blue)
+[![License MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 
 **Tagline:** *Internet freedom for everyone — resilient, private, and open.*
 
@@ -35,7 +37,7 @@ We design with **user safety first**, prioritizing anonymity, resilience, and ea
 
 ## ✨ Key Features
 
-* Lightweight, stable client for Android API 23–15
+* Lightweight, stable client for Android API 23+
 * Dynamic routing & connection-quality monitoring
 * Low detection surface & conservative telemetry
 * Modular architecture for future transports
