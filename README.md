@@ -9,8 +9,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/NetGoVPN-Team/NetGoVPN-Android?style=social)](https://github.com/NetGoVPN-Team/NetGoVPN-Android/stargazers)
 ![Android API 23+](https://img.shields.io/badge/Android-API%2023%2B-blue)
 [![License MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
-![Android](https://img.shields.io/badge/Android-API%2023%2B-blue)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![Users](https://img.shields.io/badge/Users-100%2B-brightgreen)
 
