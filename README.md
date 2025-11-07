@@ -83,7 +83,7 @@ Limitations: not a replacement for OPSEC or tools designed for anonymity from st
 * 👥 **100+ active users**
 * 🌍 Confirmed usage in multiple restricted regions
 * 🔄 Hundreds of successful connections weekly
-* 📶 Average connection success rate above **80%**
+* 📶 Average connection success rate above **97%**
 
 ### 🌱 Human Story
 > _"I couldn’t join my online university classes for months.  
