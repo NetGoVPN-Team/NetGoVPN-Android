@@ -4,9 +4,9 @@
   <img src="docs/cover.png" alt="Project Cover" width="600"/>
 </p>
 
-[![GitHub release](https://img.shields.io/github/v/release/USERNAME/REPO)](https://github.com/USERNAME/REPO/releases)
-[![Downloads](https://img.shields.io/github/downloads/USERNAME/REPO/total)](https://github.com/USERNAME/REPO/releases)
-[![GitHub stars](https://img.shields.io/github/stars/USERNAME/REPO?style=social)](https://github.com/USERNAME/REPO/stargazers)
+[![GitHub release](https://img.shields.io/github/v/release/NetGoVPN-Team/NetGoVPN-Android)](https://github.com/NetGoVPN-Team/NetGoVPN-Android/releases)
+[![Downloads](https://img.shields.io/github/downloads/NetGoVPN-Team/NetGoVPN-Android/total)](https://github.com/NetGoVPN-Team/NetGoVPN-Android/releases)
+[![GitHub stars](https://img.shields.io/github/stars/NetGoVPN-Team/NetGoVPN-Android?style=social)](https://github.com/NetGoVPN-Team/NetGoVPN-Android/stargazers)
 ![Android API 23+](https://img.shields.io/badge/Android-API%2023%2B-blue)
 [![License MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
