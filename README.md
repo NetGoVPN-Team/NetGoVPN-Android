@@ -97,7 +97,7 @@ Small today — but already meaningful.
 ## 🧩 Tech Stack & Components
 
 * Transport engines: custom configuration built on proven open networking components
-* Android client: Kotlin/Java
+* Android client: Java
 * Telemetry: opt-in Firebase + private, aggregated metrics
 
 Upstream licenses are respected and documented.
@@ -191,7 +191,7 @@ See: [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## 📄 License
 
-MIT License — see `LICENSE`.
+MIT License — see [LICENSE](LICENSE).
 
 ---
 
