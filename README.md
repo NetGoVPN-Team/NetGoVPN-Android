@@ -104,14 +104,14 @@ Upstream licenses are respected and documented.
 
 ---
 
-## 🧾 Roadmap (Grant-Aligned — 6 Months)
+## 🧾 Roadmap (6 Months)
 
 * Month 1 — Launch & first performance metrics ✅ ongoing
 * Month 2 — Security review + privacy policy hardening
 * Month 3 — UX enhancements & onboarding help screens
 * Month 4 — Scaling infrastructure to multi-region
 * Month 5 — Transparency dashboard + community trust signals
-* Month 6 — Reach 10k MAU and submit $25k grant proposal
+* Month 6 — Reach 10k MAU
 
 ---
 
