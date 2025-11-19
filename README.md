@@ -10,7 +10,7 @@
 ![Android API 23+](https://img.shields.io/badge/Android-API%2023%2B-blue)
 [![License MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 ![Status](https://img.shields.io/badge/Status-Active-success)
-![Users](https://img.shields.io/badge/Users-400%2B-brightgreen)
+![Users](https://img.shields.io/badge/Users-1500%2B-brightgreen)
 
 
 **Tagline:** *Internet freedom for everyone — resilient, private, and open.*
@@ -80,10 +80,10 @@ Limitations: not a replacement for OPSEC or tools designed for anonymity from st
 
 > ⚡ Even in early development, NetGoVPN is already improving lives.
 
-* 👥 **100+ active users**
+* 👥 **1500+ active users**
 * 🌍 Confirmed usage in multiple restricted regions
 * 🔄 Hundreds of successful connections weekly
-* 📶 Average connection success rate above **97%**
+* 📶 Average connection success rate above **98.2%**
 
 ### 🌱 Human Story
 > _"I couldn’t join my online university classes for months.  
