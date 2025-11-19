@@ -11,6 +11,7 @@
 [![License MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![Users](https://img.shields.io/badge/Users-1500%2B-brightgreen)
+![Transfer Over 10TB](https://img.shields.io/badge/Android-API%2023%2B-blue)
 
 
 **Tagline:** *Internet freedom for everyone — resilient, private, and open.*
