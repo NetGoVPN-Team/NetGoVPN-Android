@@ -10,8 +10,13 @@
 ![Android API 23+](https://img.shields.io/badge/Android-API%2023%2B-blue)
 [![License MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 ![Status](https://img.shields.io/badge/Status-Active-success)
-![Users](https://img.shields.io/badge/Users-1900%2B-brightgreen)
-![Transfer Over 18TB](https://img.shields.io/badge/Transfer-Over%2018TB%2B-blue)
+![Users](https://img.shields.io/badge/Users-2100%2B-brightgreen)
+![Transfer Over 18TB](https://img.shields.io/badge/Transfer-Over%2020TB%2B-blue)
+
+
+[<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" 
+     alt="Get it on Google Play" width="200">](https://play.google.com/store/apps/details?id=com.netgovpn.freedom)
+
 
 
 **Tagline:** *Internet freedom for everyone — resilient, private, and open.*
@@ -81,7 +86,7 @@ Limitations: not a replacement for OPSEC or tools designed for anonymity from st
 
 > ⚡ Even in early development, NetGoVPN is already improving lives.
 
-* 👥 **1900+ active users**
+* 👥 **2100+ active users**
 * 🌍 Confirmed usage in multiple restricted regions
 * 🔄 Hundreds of successful connections weekly
 * 📶 Average connection success rate above **98.2%**
